@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Don Holloway">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10274</md:content-id>
     <md:title>Increasing Admissions to Drug/Alcohol Treatment from Referral Sources</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
     <md:uuid>b1646746-b390-4cae-a9df-985af4c0e4a6</md:uuid>
-<md:slug>increasing-admissions-to-drug-alcohol-treatment-from-referral-sources</md:slug>
-</metadata>
+    <md:slug>increasing-admissions-to-drug-alcohol-treatment-from-referral-sources</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>How can you collaborate with us in adding content to this open course?</md:title>
